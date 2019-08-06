@@ -1,0 +1,1 @@
+<h2 class="section_title my-4"><?php echo $list['title']?></h2>

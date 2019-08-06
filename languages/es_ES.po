@@ -1,0 +1,944 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: SocialLink\n"
+"POT-Creation-Date: 2019-08-06 03:17-0300\n"
+"PO-Revision-Date: 2019-08-06 03:18-0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.3\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: dashboard/account.php:22
+msgid "Social Connect"
+msgstr ""
+
+#: dashboard/account.php:24
+msgid "Instagram"
+msgstr ""
+
+#: dashboard/account.php:31
+msgid "Connected as"
+msgstr ""
+
+#: dashboard/account.php:39
+msgid "Connect with instagram"
+msgstr ""
+
+#: dashboard/account.php:54
+msgid "Full name"
+msgstr ""
+
+#: dashboard/account.php:55
+msgid "Your full name"
+msgstr ""
+
+#: dashboard/account.php:60 inc/ajax.php:199
+msgid "Email"
+msgstr ""
+
+#: dashboard/account.php:66
+msgid "Change your password"
+msgstr ""
+
+#: dashboard/account.php:75 inc/cmb2/includes/helper-functions.php:307
+#: pages/login.php:56
+msgid "Save"
+msgstr ""
+
+#: dashboard/dashboard.php:55
+msgid "Tap to add content"
+msgstr ""
+
+#: dashboard/dashboard.php:62
+msgid "Add content"
+msgstr ""
+
+#: dashboard/dashboard.php:72
+msgid "Add a section title"
+msgstr ""
+
+#: dashboard/dashboard.php:78
+msgid "Add a link with an image"
+msgstr ""
+
+#: dashboard/dashboard.php:84
+msgid "Add an email suscription (MailChimp)"
+msgstr ""
+
+#: dashboard/dashboard.php:90
+msgid "Add a social or messaging account"
+msgstr ""
+
+#: dashboard/dashboard.php:104
+msgid "Save and preview"
+msgstr ""
+
+#: dashboard/dashboard.php:118 dashboard/design.php:202
+msgid "Save to see the preview"
+msgstr ""
+
+#: dashboard/design.php:29
+msgid "Design"
+msgstr ""
+
+#: dashboard/design.php:40
+msgid "Change avatar"
+msgstr ""
+
+#: dashboard/design.php:45
+msgid "Site Title"
+msgstr ""
+
+#: dashboard/design.php:46
+msgid "My Business name"
+msgstr ""
+
+#: dashboard/design.php:50
+msgid "Intro text (140 characters)"
+msgstr ""
+
+#: dashboard/design.php:59
+msgid "Header"
+msgstr ""
+
+#: dashboard/design.php:63
+msgid "Blank"
+msgstr ""
+
+#: dashboard/design.php:66
+msgid "Pattern"
+msgstr ""
+
+#: dashboard/design.php:69
+msgid "Image"
+msgstr ""
+
+#: dashboard/design.php:72
+msgid "Color"
+msgstr ""
+
+#: dashboard/design.php:121
+msgid "General Appearance"
+msgstr ""
+
+#: dashboard/design.php:125
+msgid "Font Family"
+msgstr ""
+
+#: dashboard/design.php:137
+msgid "Background Color"
+msgstr ""
+
+#: dashboard/design.php:144
+msgid "Color text"
+msgstr ""
+
+#: dashboard/design.php:151
+msgid "Links color"
+msgstr ""
+
+#: dashboard/design.php:160
+msgid "Rounded corners"
+msgstr ""
+
+#: dashboard/design.php:168
+msgid "Link display view"
+msgstr ""
+
+#: dashboard/design.php:174
+msgid "List view"
+msgstr ""
+
+#: dashboard/design.php:180
+msgid "Grid view"
+msgstr ""
+
+#: dashboard/design.php:189
+msgid "Save Design"
+msgstr ""
+
+#: dashboard/integrations.php:21
+msgid "Integrations"
+msgstr ""
+
+#: dashboard/integrations.php:29
+msgid "Facebook"
+msgstr ""
+
+#: dashboard/integrations.php:32
+msgid "Facebook pixel"
+msgstr ""
+
+#: dashboard/integrations.php:36 dashboard/integrations.php:51
+#: dashboard/integrations.php:72
+#, php-format
+msgid ""
+"For more information about this integration, please visit <a href=\"%s\" "
+"title=\"\">this documentation</a>."
+msgstr ""
+
+#: dashboard/integrations.php:45
+msgid "Google"
+msgstr ""
+
+#: dashboard/integrations.php:47
+msgid "Google Analytic Tracking ID"
+msgstr ""
+
+#: dashboard/integrations.php:60
+msgid "Mailchimp"
+msgstr ""
+
+#: dashboard/integrations.php:62
+msgid "Mailchimp API KEY"
+msgstr ""
+
+#: dashboard/integrations.php:67
+msgid "Mailchimp ID list"
+msgstr ""
+
+#: dashboard/integrations.php:88
+msgid "Site meta tags"
+msgstr ""
+
+#: dashboard/statistics.php:70 inc/cmb2/includes/CMB2_JS.php:208
+msgid "Today"
+msgstr ""
+
+#: dashboard/statistics.php:73
+msgid "Last week"
+msgstr ""
+
+#: dashboard/statistics.php:76
+msgid "Last month"
+msgstr ""
+
+#: dashboard/statistics.php:79
+msgid "Last 6 month"
+msgstr ""
+
+#: dashboard/statistics.php:90 dashboard/statistics.php:125
+msgid "Total visits"
+msgstr ""
+
+#: dashboard/statistics.php:94 dashboard/statistics.php:142
+#: dashboard/statistics.php:213 dashboard/statistics.php:243
+#: dashboard/statistics.php:269
+msgid "There is no data to show."
+msgstr ""
+
+#: dashboard/statistics.php:123
+msgid "Engagement"
+msgstr ""
+
+#: dashboard/statistics.php:126
+msgid "Total clicks"
+msgstr ""
+
+#: dashboard/statistics.php:139
+msgid "Traffic by countries"
+msgstr ""
+
+#: dashboard/statistics.php:168
+msgid "Country Stats"
+msgstr ""
+
+#: dashboard/statistics.php:172 dashboard/statistics.php:197
+msgid "Country"
+msgstr ""
+
+#: dashboard/statistics.php:173 dashboard/statistics.php:198
+msgid "Visits"
+msgstr ""
+
+#: dashboard/statistics.php:226
+msgid "Top referring sites"
+msgstr ""
+
+#: dashboard/statistics.php:230
+msgid "Sites"
+msgstr ""
+
+#: dashboard/statistics.php:231 dashboard/statistics.php:257
+msgid "Average"
+msgstr ""
+
+#: dashboard/statistics.php:252
+msgid "Top destination sites"
+msgstr ""
+
+#: dashboard/statistics.php:256
+msgid "Links"
+msgstr ""
+
+#: footer.php:7
+msgid "Contact"
+msgstr ""
+
+#: footer.php:10
+msgid "Privacy"
+msgstr ""
+
+#: footer.php:13
+msgid "Terms"
+msgstr ""
+
+#: footer.php:16 pages/report.php:19
+msgid "Report Violation"
+msgstr ""
+
+#: footer.php:19
+msgid "Language"
+msgstr ""
+
+#: header-bio.php:30
+msgid "GROWLINK"
+msgstr ""
+
+#: inc/ajax.php:14
+msgid "Invalid email"
+msgstr ""
+
+#: inc/ajax.php:59
+msgid "Please confirm your account"
+msgstr ""
+
+#: inc/ajax.php:61
+msgid "Confirm email"
+msgstr ""
+
+#: inc/ajax.php:62
+msgid "Hi!"
+msgstr ""
+
+#: inc/ajax.php:62
+msgid ""
+"Welcome to our platform. To validate your account click on the following link"
+msgstr ""
+
+#: inc/ajax.php:65
+msgid "New user registration"
+msgstr ""
+
+#: inc/ajax.php:84
+msgid "We just sent you an email to verify your user. Please check your inbox."
+msgstr ""
+
+#: inc/ajax.php:123
+msgid "You must validate your email."
+msgstr ""
+
+#: inc/ajax.php:123
+msgid "Resend validation"
+msgstr ""
+
+#: inc/ajax.php:129
+msgid "Wrong credentials"
+msgstr ""
+
+#: inc/ajax.php:146
+msgid "Reset your password"
+msgstr ""
+
+#: inc/ajax.php:148
+msgid "Reset password"
+msgstr ""
+
+#: inc/ajax.php:149
+msgid ""
+"Someone has asked to reset the password of your profile in Growlink. To "
+"reset your password visit the following address:"
+msgstr ""
+
+#: inc/ajax.php:153
+msgid "The instructions have been sent to your email"
+msgstr ""
+
+#: inc/ajax.php:156 inc/ajax.php:167
+msgid "Username does not exist"
+msgstr ""
+
+#: inc/ajax.php:180
+msgid "Validate your email"
+msgstr ""
+
+#: inc/ajax.php:182
+msgid ""
+"You have resend the link to validate your acount. Please click the next link."
+msgstr ""
+
+#: inc/ajax.php:186
+msgid "We have just send the link to yor inbox."
+msgstr ""
+
+#: inc/ajax.php:198
+msgid "Contact from Growlink"
+msgstr ""
+
+#: inc/ajax.php:199 pages/contact.php:30 pages/contact.php:31
+#: pages/report.php:30 pages/report.php:31
+msgid "Name"
+msgstr ""
+
+#: inc/ajax.php:199
+msgid "Nessage"
+msgstr ""
+
+#: inc/ajax.php:202
+msgid "Thanks for writing to us. We will respond you as soon as possible."
+msgstr ""
+
+#: inc/ajax.php:205
+msgid "An error ocurred."
+msgstr ""
+
+#: inc/ajax.php:245
+msgid "ID missing"
+msgstr ""
+
+#: inc/ajax.php:246
+msgid "Firstname missing"
+msgstr ""
+
+#: inc/ajax.php:247
+msgid "Lastname missing"
+msgstr ""
+
+#: inc/ajax.php:248
+msgid "Email missing"
+msgstr ""
+
+#: inc/ajax.php:261
+msgid "Thanks for subscribing, please check your inbox to validate the email."
+msgstr ""
+
+#: inc/ajax.php:263
+msgid "Ops! Something happened."
+msgstr ""
+
+#: inc/ajax.php:267
+msgid "Ups something if wrong."
+msgstr ""
+
+#: inc/ajax.php:311 inc/ajax.php:390 inc/ajax.php:450
+msgid "ID Missing"
+msgstr ""
+
+#: inc/ajax.php:334
+msgid "Saved"
+msgstr ""
+
+#: inc/ajax.php:336
+msgid "Nothing to save"
+msgstr ""
+
+#: inc/ajax.php:348
+msgid "Change picture"
+msgstr ""
+
+#: inc/ajax.php:437
+msgid "Design Saved"
+msgstr ""
+
+#: inc/ajax.php:440 inc/ajax.php:480 inc/ajax.php:528
+msgid "An error occurred"
+msgstr ""
+
+#: inc/ajax.php:443 inc/ajax.php:483 inc/ajax.php:531
+msgid "Nice try"
+msgstr ""
+
+#: inc/ajax.php:476
+msgid "Options Saved"
+msgstr ""
+
+#: inc/ajax.php:497
+msgid "Email error, please use another one."
+msgstr ""
+
+#: inc/ajax.php:502
+msgid "Email is invalid"
+msgstr ""
+
+#: inc/ajax.php:505
+msgid "Email can´t be empty"
+msgstr ""
+
+#: inc/ajax.php:524
+msgid "Data Saved"
+msgstr ""
+
+#: inc/ajax.php:545
+msgid "Clicks stats last 7 days"
+msgstr ""
+
+#: inc/ajax.php:547
+msgid "This link has been clicked 0 times."
+msgstr ""
+
+#: inc/core.php:163
+msgid "Primera"
+msgstr ""
+
+#: inc/core.php:165
+msgid "Anterior"
+msgstr ""
+
+#: inc/core.php:180
+msgid "Siguiente"
+msgstr ""
+
+#: inc/core.php:184
+msgid "Última"
+msgstr ""
+
+#: inc/custom.php:80
+msgid "SEO"
+msgstr ""
+
+#: inc/custom.php:85
+msgid "Meta title"
+msgstr ""
+
+#: inc/custom.php:91
+msgid "Meta Description"
+msgstr ""
+
+#: inc/custom.php:97
+msgid "Meta Keywords"
+msgstr ""
+
+#: inc/navwalker.php:317
+msgid "Add a menu"
+msgstr ""
+
+#: pages/contact.php:19
+msgid "Contact us"
+msgstr ""
+
+#: pages/contact.php:39 pages/contact.php:40 pages/report.php:39
+#: pages/report.php:40 pages/signup.php:38 pages/signup.php:39
+msgid "Email address"
+msgstr ""
+
+#: pages/contact.php:48 pages/report.php:48
+msgid "Message"
+msgstr ""
+
+#: pages/contact.php:58 pages/report.php:59
+msgid "Send message"
+msgstr ""
+
+#: pages/features.php:13
+msgid "Growlink´s awesome features"
+msgstr ""
+
+#: pages/features.php:15
+msgid "All the features listed below are available for all users, for free!"
+msgstr ""
+
+#: pages/features.php:29
+msgid "A beautiful and simple landing page where you can:"
+msgstr ""
+
+#: pages/features.php:31
+msgid "Add unlimited links"
+msgstr ""
+
+#: pages/features.php:32
+msgid "Add social media buttons"
+msgstr ""
+
+#: pages/features.php:33
+msgid "Customize colors, buttons, fonts and images"
+msgstr ""
+
+#: pages/features.php:34
+msgid "Add thumbnails to each link"
+msgstr ""
+
+#: pages/features.php:35
+msgid "Highlight your most important links"
+msgstr ""
+
+#: pages/features.php:36
+msgid "Choose your username and add a description"
+msgstr ""
+
+#: pages/features.php:37
+msgid "Add a beautiful background image of GIF"
+msgstr ""
+
+#: pages/features.php:39 pages/features.php:60 pages/home.php:45
+msgid "Sign Up for free!"
+msgstr ""
+
+#: pages/features.php:50
+msgid "A powerfull and intuitive dashboard where you can:"
+msgstr ""
+
+#: pages/features.php:52
+msgid "See detailed statistics of your landing page"
+msgstr ""
+
+#: pages/features.php:53
+msgid "See where your followers are based"
+msgstr ""
+
+#: pages/features.php:54
+msgid "See how many times a link has been clicked"
+msgstr ""
+
+#: pages/features.php:55
+msgid "Add custom UTM parameters to each link"
+msgstr ""
+
+#: pages/features.php:56
+msgid "Schedule your links"
+msgstr ""
+
+#: pages/features.php:57
+msgid "Grow your email list"
+msgstr ""
+
+#: pages/features.php:58
+msgid "Add your facebook pixel re-targeting"
+msgstr ""
+
+#: pages/features.php:71
+msgid "Testimonials"
+msgstr ""
+
+#: pages/features.php:129
+msgid "Frecuently asked questions"
+msgstr ""
+
+#: pages/features.php:136
+msgid "What is Growl.ink?"
+msgstr ""
+
+#: pages/features.php:141
+msgid ""
+"Growl.ink allows you to create a personalised and easily customisable page, "
+"that houses all the important links you want to share with your followers on "
+"social platforms such as Instagram, Facebook, Youtube, Twitter, and more."
+msgstr ""
+
+#: pages/features.php:151
+msgid "Where can I share my Growl.ink?"
+msgstr ""
+
+#: pages/features.php:156
+msgid ""
+"Once you've setup your page and added all your links, you simply copy your "
+"unique URL and paste it into the 'Website' field of your Instagram or "
+"Twitter bio or share it on facebook posts and Youtube Videos, or anywhere "
+"you want. Then, all you need to do is update your Growl.ink links - you "
+"never have to change the link in your bio again!"
+msgstr ""
+
+#: pages/features.php:166
+msgid "How much does Growl.ink cost?"
+msgstr ""
+
+#: pages/features.php:170
+#, php-format
+msgid ""
+"Growl.ink is free to use. We have many cool features, but unlike other "
+"\"link in bio\" tools, there are no \"pro\" features -  everything is "
+"100% free."
+msgstr ""
+
+#: pages/features.php:179
+msgid "You have more questions?"
+msgstr ""
+
+#: pages/features.php:183
+msgid "For any additional questions, please contact us at support@growl.ink."
+msgstr ""
+
+#: pages/home.php:14
+msgid "Share more on your social bio links."
+msgstr ""
+
+#: pages/home.php:15
+#, php-format
+msgid "Turn a single link into a unlimited, <i>100% free</i>"
+msgstr ""
+
+#: pages/home.php:16 pages/home.php:24 pages/signup.php:75
+msgid "Get Started"
+msgstr ""
+
+#: pages/home.php:35
+msgid "Never Change your bio again"
+msgstr ""
+
+#: pages/home.php:43
+msgid ""
+"Socialink is a beautiful way to share your other social networks and "
+"recommend products, events, courses, and any other content with just one bio "
+"link."
+msgstr ""
+
+#: pages/home.php:44
+msgid ""
+"Your landing page is a collection of links with images, which gets your "
+"followers to where you want them, fast."
+msgstr ""
+
+#: pages/home.php:55
+msgid "How it works"
+msgstr ""
+
+#: pages/home.php:61
+msgid "Your unique link"
+msgstr ""
+
+#: pages/home.php:62
+msgid ""
+"You'll get one bio link to house all the content you're driving followers to."
+msgstr ""
+
+#: pages/home.php:67
+msgid "Add multiple destinations"
+msgstr ""
+
+#: pages/home.php:68
+msgid ""
+"Add other social networks, recommend products, causes you care about, etc."
+msgstr ""
+
+#: pages/home.php:72
+msgid "Easily managed"
+msgstr ""
+
+#: pages/home.php:73
+msgid ""
+"It works in all the places you need to share important links with your "
+"followers."
+msgstr ""
+
+#: pages/home.php:77
+msgid "Join Now for free"
+msgstr ""
+
+#: pages/home.php:78
+msgid "All features"
+msgstr ""
+
+#: pages/home.php:86
+msgid "Some examples"
+msgstr ""
+
+#: pages/login.php:23
+msgid "Recover your password"
+msgstr ""
+
+#: pages/login.php:23 pages/login.php:80
+msgid "back"
+msgstr ""
+
+#: pages/login.php:26
+msgid "Please enter your email"
+msgstr ""
+
+#: pages/login.php:30 pages/login.php:67 pages/login.php:68 pages/login.php:90
+#: pages/login.php:91
+msgid "Email Address"
+msgstr ""
+
+#: pages/login.php:37
+msgid "Search"
+msgstr ""
+
+#: pages/login.php:42
+msgid "Set your new password"
+msgstr ""
+
+#: pages/login.php:61
+msgid "Resend email validation"
+msgstr ""
+
+#: pages/login.php:75
+msgid "Resend code"
+msgstr ""
+
+#: pages/login.php:80
+msgid "Welcome"
+msgstr ""
+
+#: pages/login.php:83
+msgid "Password changed succesfully"
+msgstr ""
+
+#: pages/login.php:84
+msgid "Thank you for confirming your email. Now you can log in"
+msgstr ""
+
+#: pages/login.php:86
+msgid "Login to manage your account."
+msgstr ""
+
+#: pages/login.php:95 pages/signup.php:45
+msgid "Password"
+msgstr ""
+
+#: pages/login.php:101
+#, php-format
+msgid "<a href='%s' class='text-muted'>Forgot Password?</a>"
+msgstr ""
+
+#: pages/login.php:107 pages/signup.php:69 partials/public/nav.php:32
+msgid "Login"
+msgstr ""
+
+#: pages/login.php:110
+msgid "Don't have an account?"
+msgstr ""
+
+#: pages/login.php:111 partials/public/nav.php:35
+msgid "Signup"
+msgstr ""
+
+#: pages/signup.php:20
+msgid "Welcome to"
+msgstr ""
+
+#: pages/signup.php:22
+msgid "Fill out the form to get started."
+msgstr ""
+
+#: pages/signup.php:30 pages/signup.php:31
+msgid "Username"
+msgstr ""
+
+#: pages/signup.php:68
+msgid "Already have an account?"
+msgstr ""
+
+#: partials/components/backend/_emailelement.php:6
+#: partials/components/backend/_emailelement_edit.php:6
+msgid "Email suscription"
+msgstr ""
+
+#: partials/components/backend/_emailelement.php:10
+#: partials/components/backend/_emailelement_edit.php:10
+msgid "Email subscription title (20 characters)"
+msgstr ""
+
+#: partials/components/backend/_emailelement.php:13
+#: partials/components/backend/_emailelement_edit.php:14
+msgid "Email subscription description (70 characters)"
+msgstr ""
+
+#: partials/components/backend/_emailelement.php:24
+#, php-format
+msgid ""
+"Remember to define MAILCHIMP API KEY and LIST ID in <a class=\"alert-link\" "
+"href=\"%s\">Integrations</a> page."
+msgstr ""
+
+#: partials/components/backend/_emailelement_edit.php:27
+#, php-format
+msgid ""
+"<small>Remember to define MAILCHIMP API KEY and LIST ID in <a class=\"alert-"
+"link\" href=\"%s\">Integrations</a> page.</small>"
+msgstr ""
+
+#: partials/components/backend/_linkelement.php:6
+#: partials/components/backend/_linkelement_edit.php:6
+msgid "Link with an image"
+msgstr ""
+
+#: partials/components/backend/_linkelement.php:19
+#: partials/components/backend/_linkelement_edit.php:22
+msgid "Add a link title (30 characters)"
+msgstr ""
+
+#: partials/components/backend/_linkelement.php:24
+#: partials/components/backend/_linkelement_edit.php:27
+msgid "https://"
+msgstr ""
+
+#: partials/components/backend/_linkelement.php:32
+msgid "The link description (70 characters)"
+msgstr ""
+
+#: partials/components/backend/_linkelement_edit.php:35
+msgid "Add the link description (30 characters)"
+msgstr ""
+
+#: partials/components/backend/_linksocial.php:6
+#: partials/components/backend/_linksocial_edit.php:6
+msgid "Social link"
+msgstr ""
+
+#: partials/components/backend/_linksocial.php:19
+#: partials/components/backend/_linksocial_edit.php:19
+msgid "Your username or number"
+msgstr ""
+
+#: partials/components/backend/_sectionelement.php:6
+#: partials/components/backend/_sectionelement_edit.php:6
+msgid "Section title"
+msgstr ""
+
+#: partials/components/backend/_sectionelement.php:10
+#: partials/components/backend/_sectionelement_edit.php:10
+msgid "Add a title section (20 characters)"
+msgstr ""
+
+#: partials/components/backend/_simpletext.php:6
+#: partials/components/backend/_simpletext_edit.php:6
+msgid "Text box"
+msgstr ""
+
+#: partials/components/backend/_simpletext.php:10
+#: partials/components/backend/_simpletext_edit.php:10
+msgid "Add a title (20 characters)"
+msgstr ""
+
+#: partials/components/backend/_simpletext.php:13
+#: partials/components/backend/_simpletext_edit.php:13
+msgid "Add a text (70 characters)"
+msgstr ""
+
+#: partials/dash/navlink.php:16
+msgid "Logout"
+msgstr ""
+
+#: partials/dash/navlink.php:31
+msgid "Copy"
+msgstr ""
+
+#: partials/dash/navlink.php:32
+msgid "Open"
+msgstr ""
+
+#: partials/public/nav.php:21
+msgid "Home"
+msgstr ""
+
+#: partials/public/nav.php:24
+msgid "Features"
+msgstr ""
+
+#: partials/public/nav.php:28
+msgid "Dashboard"
+msgstr ""
+
+#: single.php:68
+msgid "Powered by"
+msgstr ""
